@@ -25,7 +25,7 @@ I love building innovative projects, solving complex problems, and sharing my kn
 
 - **Email**: [devanshuasm750@gmail.com](mailto:devanshuasm750@gmail.com.com)
 - **LinkedIn**: [devanshumarkam](https://www.linkedin.com/in/devanshumarkam)
-- **Instagram**: [Your Instagram](https://www.instagram.com/dev._markam)
+- **Instagram**: [Devanshu Sanjay Markam](https://www.instagram.com/dev._markam)
 
 
 Thanks for visiting my profile! 😊
