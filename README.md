@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Go Language, DevOps, and Web Development.<br>👨‍💻 I’m working on various DSA and Web Development projects.<br>💬 Ask me about Java, HTML/CSS, JavaScript, or anything tech-related.<br>⚡ Fun fact: I enjoy playing with algorithms and creating motivational content for aspiring developers!<br>
+🌱 I’m currently learning Go Language for DevOps.<br>👨‍💻 I’m working on various projects.<br>💬 Ask me anything tech-related.<br>⚡ Fun fact: I enjoy playing with algorithms and creating various projects regarding my domain!<br>
 
 
 ## 🌐 Socials:
