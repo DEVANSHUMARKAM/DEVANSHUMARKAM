@@ -1,5 +1,5 @@
 # 💫 Hello , I am DEVANSHU SANJAY MARKAM
-🌱 I’m currently learning  DevOps.<br>👨‍💻 I’m working on various projects.<br>💬 Ask me anything tech-related.<br>⚡ Fun fact: I enjoy playing with algorithms and creating various projects regarding my domain!<br>
+👨‍💻 I’m working on various projects.<br>💬 Ask me anything tech-related.<br>⚡ Fun fact: I enjoy playing with algorithms and creating various projects regarding my domain!<br>
 
 
 ## 🌐 Socials:
