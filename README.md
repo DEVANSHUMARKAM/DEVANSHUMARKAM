@@ -17,13 +17,13 @@
 ## Technology Used
 
 ### IDEs & Editors
-- ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2023-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white )
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023-blue?style=for-the-badge&logo=intellijidea&logoColor=white )
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2023-orange?style=for-the-badge&logo=eclipseide&logoColor=white )
-- ![NetBeans](https://img.shields.io/badge/NetBeans-2023-green?style=for-the-badge&logo=netbeans&logoColor=white )
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2023-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white )
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023-blue?style=for-the-badge&logo=intellijidea&logoColor=white )
+![Eclipse](https://img.shields.io/badge/Eclipse-2023-orange?style=for-the-badge&logo=eclipseide&logoColor=white )
+![NetBeans](https://img.shields.io/badge/NetBeans-2023-green?style=for-the-badge&logo=netbeans&logoColor=white )
 
 ### Version Control
-- ![Git](https://img.shields.io/badge/Git-2.40-red?style=for-the-badge&logo=git&logoColor=white )
-- ![GitHub](https://img.shields.io/badge/GitHub-2023-black?style=for-the-badge&logo=github&logoColor=white )
+![Git](https://img.shields.io/badge/Git-2.40-red?style=for-the-badge&logo=git&logoColor=white )
+![GitHub](https://img.shields.io/badge/GitHub-2023-black?style=for-the-badge&logo=github&logoColor=white )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
