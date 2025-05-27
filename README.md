@@ -13,6 +13,7 @@
 ![Postman](https://img.shields.io/badge/Postman-v10-orange.svg?style=for-the-badge&logo=postman&logoColor=white )
 ![Maven](https://img.shields.io/badge/Maven-3.x-brightgreen.svg?style=for-the-badge&logo=apachemaven&logoColor=white )
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-5.x-yellow.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white )
+![Java Swing](https://img.shields.io/badge/Java_Swing-8.x-orange.svg?style=for-the-badge&logo=java&logoColor=white )
 
 ## Technology Used
 
