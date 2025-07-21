@@ -35,6 +35,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2023-black?style=for-the-badge&logo=github&logoColor=white )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+### 📊 GitHub Contributions
+
+![Devanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVANSHUMARKAM&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUMARKAM&layout=compact&theme=tokyonight)
+
 <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/51de55b7-0daf-48e1-befb-fbc59868a4a0" />
+
+
+
 
 
