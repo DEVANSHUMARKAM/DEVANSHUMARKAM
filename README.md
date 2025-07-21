@@ -1,9 +1,11 @@
-# 💫 Hello , I am DEVANSHU SANJAY MARKAM
+<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/85744aca-9126-4b5e-9872-23fe427c3722" />
 - 👨‍💻 I’m working on various projects.<br>
 - 💬 Ask me anything tech-related.<br>
 - ⚡ Fun fact: I enjoy playing with algorithms and creating various projects regarding my domain!<br>
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
+
+
 
 
 
@@ -32,4 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-2.40-red?style=for-the-badge&logo=git&logoColor=white )
 ![GitHub](https://img.shields.io/badge/GitHub-2023-black?style=for-the-badge&logo=github&logoColor=white )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/51de55b7-0daf-48e1-befb-fbc59868a4a0" />
+
 
